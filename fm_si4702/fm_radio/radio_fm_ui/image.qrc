@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/auto/1.png</file>
+        <file>image/down/1.png</file>
+        <file>image/list/1.png</file>
+        <file>image/manu/1.png</file>
+        <file>image/next/1.png</file>
+        <file>image/previous/1.png</file>
+        <file>image/save/1.png</file>
+        <file>image/up/1.png</file>
+        <file>image/volume/1.png</file>
+        <file>image/mainBackground/1.bmp</file>
+        <file>image/goback/1.png</file>
+        <file>image/auto/u1.png</file>
+        <file>image/down/u1.png</file>
+        <file>image/goback/u1.png</file>
+        <file>image/list/u1.png</file>
+        <file>image/manu/u1.png</file>
+        <file>image/next/u1.png</file>
+        <file>image/previous/u1.png</file>
+        <file>image/save/u1.png</file>
+        <file>image/start/u1.png</file>
+        <file>image/stop/u1.png</file>
+        <file>image/up/u1.png</file>
+        <file>image/volume/u1.png</file>
+        <file>image/mainBackground/3.bmp</file>
+        <file>image/stop/1.png</file>
+        <file>image/start/1.png</file>
+    </qresource>
+</RCC>
