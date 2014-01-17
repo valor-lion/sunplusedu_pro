@@ -1,0 +1,18 @@
+
+#the path that songs saved int
+	SONG_PATH:  /mnt
+
+#the time that set to play the song, <example>: 13-40-00 
+ PLAY_TIME: 13-40-00
+
+#there are two play modes:  "auto" --play circly;  "manual" --play one time
+PLAY_MODE: auto
+
+#sunplayer play songs using itvdays to judget the next active time
+   PLAY_ITVDAYS: 0
+
+#the total days that sunplayer will be work,"NULL" is forever
+PLAY_TOTALDAYS: 0
+
+  
+
